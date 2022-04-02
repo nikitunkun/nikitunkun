@@ -19,7 +19,7 @@
 - Python
 - Django
 - FastAPI
-- PostgreSQL
+- SQL
 - MongoDB
 - Redis & Redis RQ
 - ElasticSearch (ELK)
